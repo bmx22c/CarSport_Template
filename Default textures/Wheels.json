@@ -1,0 +1,10 @@
+Shading = {
+	Constants = [
+		{Name="DirtTileScale"	Value="0.5"}
+//		{Name="AttritionNormalScale"	Value="0.7"}
+		{Name="AttritionRoughMin"		Value="0.6"}
+		{Name="AttritionRoughMax"		Value="1.0"}
+		{Name="AttritionBaseColorMin"	Value="0.05"}
+		{Name="AttritionBaseColorMax"	Value="1.0"}
+	]
+}
